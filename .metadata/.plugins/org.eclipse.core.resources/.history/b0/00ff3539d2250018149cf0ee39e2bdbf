@@ -1,0 +1,57 @@
+/**
+ * 
+ */
+package com.jehu.security.core.validate.code.impl;
+
+import org.springframework.web.context.request.ServletWebRequest;
+
+import com.jehu.security.core.validate.code.ValidateCode;
+import com.jehu.security.core.validate.code.ValidateCodeProcessor;
+
+/**抽取的图片验证码的逻辑
+ * @author Administrator
+ *
+ */
+public abstract class AbstractValidateCodeProcessor<C extends ValidateCode> implements ValidateCodeProcessor {
+
+	/* (non-Javadoc)
+	 * @see com.jehu.security.core.validate.code.ValidateCodeProcessor#create(org.springframework.web.context.request.ServletWebRequest)
+	 */
+	@Override
+	public void create(ServletWebRequest request) throws Exception {
+		C validateCode = generator(request);
+		save(request, validateCode);
+		send(request, validateCode);
+
+	}
+
+
+	/* (non-Javadoc)
+	 * @see com.jehu.security.core.validate.code.ValidateCodeProcessor#validate(org.springframework.web.context.request.ServletWebRequest)
+	 */
+	@Override
+	public void validate(ServletWebRequest request) {
+		// TODO Auto-generated method stub
+
+	}
+	/**
+	 * 发送校验码，由子类实现
+	 * 
+	 * @param request
+	 * @param validateCode
+	 * @throws Exception
+	 */
+	protected abstract void send(ServletWebRequest request, C validateCode) throws Exception;
+
+
+	private void save(ServletWebRequest request, C validateCode) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private C generator(ServletWebRequest request) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

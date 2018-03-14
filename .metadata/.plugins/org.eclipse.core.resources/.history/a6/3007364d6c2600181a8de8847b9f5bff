@@ -1,0 +1,40 @@
+/**
+* @Title:：SmsCodeAuthenticationProvider.java 
+* @Package ：com.jehu.security.core.authentication.mobile 
+* @Description： TODO
+* @author： JehuXie   
+* @date： 2018年3月13日 上午11:00:40 
+ */
+package com.jehu.security.core.authentication.mobile;
+
+import org.springframework.security.authentication.AuthenticationProvider;
+import org.springframework.security.core.Authentication;
+import org.springframework.security.core.AuthenticationException;
+
+/**
+* @ClassName:：SmsCodeAuthenticationProvider 
+* @Description： TODO
+* @author ：JehuXie
+* @date ：2018年3月13日 上午11:00:40 
+ */
+public class SmsCodeAuthenticationProvider implements AuthenticationProvider {
+
+	/* (non-Javadoc)
+	 * @see org.springframework.security.authentication.AuthenticationProvider#authenticate(org.springframework.security.core.Authentication)
+	 */
+	@Override
+	public Authentication authenticate(Authentication authentication) throws AuthenticationException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	/* (non-Javadoc)
+	 * @see org.springframework.security.authentication.AuthenticationProvider#supports(java.lang.Class)
+	 */
+	@Override
+	public boolean supports(Class<?> authentication) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

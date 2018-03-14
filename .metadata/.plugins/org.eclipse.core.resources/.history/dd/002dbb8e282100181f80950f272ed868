@@ -1,0 +1,33 @@
+/**
+ * 
+ */
+package com.jehu.security.core.properties;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.context.properties.ConfigurationProperties;
+
+/**
+ * @author Administrator
+ *
+ */
+@ConfigurationProperties(prefix = "jehu.security")
+public class SecurityProperties {
+
+	private BrowserProperties browserProperties = new BrowserProperties();
+	
+	public SecurityProperties() {}
+	
+	public SecurityProperties(BrowserProperties browserProperties) {
+		this.browserProperties = browserProperties;
+	}
+
+	public BrowserProperties getBrowserProperties() {
+		return browserProperties;
+	}
+
+	public void setBrowserProperties(BrowserProperties browserProperties) {
+		this.browserProperties = browserProperties;
+	}
+	
+	
+}

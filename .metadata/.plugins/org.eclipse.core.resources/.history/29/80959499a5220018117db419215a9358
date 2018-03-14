@@ -1,0 +1,5 @@
+package com.jehu.security.core.properties;
+
+public class ValidateCodeProperties {
+
+}

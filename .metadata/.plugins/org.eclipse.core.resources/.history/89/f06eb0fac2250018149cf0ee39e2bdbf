@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package com.jehu.security.core.validate.code;
+
+import javax.servlet.http.HttpServletRequest;
+
+/**
+ * @author Administrator
+ *
+ */
+public interface ValidateCodeGenerator {
+
+	ImageCode createImageCode(HttpServletRequest request);
+}

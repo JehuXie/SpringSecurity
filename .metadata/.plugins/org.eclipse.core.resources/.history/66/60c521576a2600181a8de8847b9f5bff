@@ -1,0 +1,18 @@
+/**
+* @Title:：SmsCodeAuthenticationFilter.java 
+* @Package ：com.jehu.security.core.authentication.mobile 
+* @Description： TODO
+* @author： JehuXie   
+* @date： 2018年3月13日 上午10:47:00 
+ */
+package com.jehu.security.core.authentication.mobile;
+
+/**
+* @ClassName:：SmsCodeAuthenticationFilter 
+* @Description： TODO
+* @author ：JehuXie
+* @date ：2018年3月13日 上午10:47:00 
+ */
+public class SmsCodeAuthenticationFilter {
+
+}

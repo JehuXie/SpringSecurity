@@ -1,0 +1,62 @@
+/**
+ * 
+ */
+package com.jehu.code;
+
+import java.awt.Color;
+import java.awt.Graphics;
+import java.awt.image.BufferedImage;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.OutputStream;
+import java.util.Random;
+
+import javax.imageio.ImageIO;
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.stereotype.Component;
+
+import com.jehu.security.core.validate.code.ImageCode;
+import com.jehu.security.core.validate.code.ValidateCodeGenerator;
+
+/**
+ * @author Administrator
+ *
+ */
+@Component("imageCodeGenerator")
+public class DemoValidateCodeGenerator implements ValidateCodeGenerator {
+
+	/* (non-Javadoc)
+	 * @see com.jehu.security.core.validate.code.ValidateCodeGenerator#createImageCode(javax.servlet.http.HttpServletRequest)
+	 */
+	@Override
+	public ImageCode createImageCode(HttpServletRequest request){
+		System.out.println("书写自己的图片验证码代码");
+		
+		    Random random = new Random();
+		    Color color = new Color(random.nextInt(256), 
+		    		random.nextInt(256), random.nextInt(256));
+		    
+		    BufferedImage image = new BufferedImage(100,25,BufferedImage.TYPE_INT_RGB);
+		    Graphics g = image.getGraphics();
+		    g.setColor(color);
+		    /*BufferedImage image = new BufferedImage(100,25,BufferedImage.TYPE_INT_RGB);
+		    //图片格式可以自定义，java对png图片显示更清楚，输出路径可自定义
+		    OutputStream os = new FileOutputStream("d:/x.png");
+		    //注意图片格式与创建格式匹配
+		    ImageIO.write(image, "png", os);
+		    os.close();*/
+		
+		    String sRand = "";
+			for(int i=0;i<4;i++) {
+				String rand = String.valueOf(random.nextInt(10));
+				sRand += rand;
+				g.setColor(new Color(20+random.nextInt(110),20+random.nextInt(110),20+random.nextInt(110),20+random.nextInt(110)));
+				g.drawString(rand, 13*i+6, 16);
+			}
+			g.dispose();
+		
+		return new ImageCode(image, sRand, 60);
+	}
+
+}

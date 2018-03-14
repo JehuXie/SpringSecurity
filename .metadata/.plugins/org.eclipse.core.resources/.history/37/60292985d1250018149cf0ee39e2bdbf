@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.jehu.security.core.validate.code;
+
+/**
+ * @author Administrator
+ *
+ */
+public class ValidateCodePepository {
+
+}

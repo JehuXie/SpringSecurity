@@ -1,0 +1,5 @@
+package com.jehu.security.core.validate.code;
+
+public enum ValidateCodeType {
+
+}

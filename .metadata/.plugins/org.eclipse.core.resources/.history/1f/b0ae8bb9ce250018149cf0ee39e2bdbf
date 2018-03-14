@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package com.jehu.security.core.validate.code.image;
+
+import com.jehu.security.core.validate.code.impl.AbstractValidateCodeProcessor;
+
+/**
+ * @author Administrator
+ *
+ */
+public class ImageCodeProcessor extends AbstractValidateCodeProcessor<ImageCode> {
+
+	
+}

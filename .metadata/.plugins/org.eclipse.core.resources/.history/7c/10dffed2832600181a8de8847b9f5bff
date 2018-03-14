@@ -1,0 +1,18 @@
+/**
+* @Title:：AbstractChannelSecurityConfig.java 
+* @Package ：com.jehu.security.core.authentication 
+* @Description： TODO
+* @author： JehuXie   
+* @date： 2018年3月13日 下午1:49:53 
+ */
+package com.jehu.security.core.authentication;
+
+/**
+* @ClassName:：AbstractChannelSecurityConfig 
+* @Description： TODO
+* @author ：JehuXie
+* @date ：2018年3月13日 下午1:49:53 
+ */
+public class AbstractChannelSecurityConfig {
+
+}

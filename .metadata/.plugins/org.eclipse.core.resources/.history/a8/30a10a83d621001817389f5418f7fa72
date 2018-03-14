@@ -1,0 +1,31 @@
+/**
+ * 
+ */
+package com.jehu.security.core.properties;
+
+import org.springframework.stereotype.Component;
+
+/**
+ * @author Administrator
+ *
+ */
+@Component
+public class BrowserProperties {
+	
+	private String loginPage = "/jehu-signin.html";
+	
+	public BrowserProperties() {}
+	
+	public BrowserProperties(String loginPage) {
+		super();
+		this.loginPage = loginPage;
+	}
+
+	public String getLoginPage() {
+		return loginPage;
+	}
+
+	public void setLoginPage(String loginPage) {
+		this.loginPage = loginPage;
+	}
+}

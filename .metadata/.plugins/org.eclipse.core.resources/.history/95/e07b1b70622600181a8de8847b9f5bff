@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package com.jehu.security.core.properties;
+
+/**
+ * @author Administrator
+ *
+ */
+public enum LoginType {
+
+	JSON,
+	
+	REDIRECT
+}

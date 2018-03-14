@@ -1,0 +1,20 @@
+/**
+* @Title:：ValidateCodeSecurityConfig.java 
+* @Package ：com.jehu.security.core.validate.code 
+* @Description： TODO
+* @author： JehuXie   
+* @date： 2018年3月13日 下午2:09:45 
+ */
+package com.jehu.security.core.validate.code;
+
+import org.springframework.security.config.annotation.SecurityConfigurerAdapter;
+
+/**
+* @ClassName:：ValidateCodeSecurityConfig 
+* @Description： TODO
+* @author ：JehuXie
+* @date ：2018年3月13日 下午2:09:45 
+ */
+public class ValidateCodeSecurityConfig extends SecurityConfigurerAdapter<O, B> {
+
+}

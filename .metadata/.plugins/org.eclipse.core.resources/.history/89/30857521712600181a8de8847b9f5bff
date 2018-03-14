@@ -1,0 +1,20 @@
+/**
+* @Title:：SmsCodeAuthenticationSecurityConfig.java 
+* @Package ：com.jehu.security.core.authentication.mobile 
+* @Description： TODO
+* @author： JehuXie   
+* @date： 2018年3月13日 上午11:26:28 
+ */
+package com.jehu.security.core.authentication.mobile;
+
+import org.springframework.security.config.annotation.SecurityConfigurerAdapter;
+
+/**
+* @ClassName:：SmsCodeAuthenticationSecurityConfig 
+* @Description： TODO
+* @author ：JehuXie
+* @date ：2018年3月13日 上午11:26:28 
+ */
+public class SmsCodeAuthenticationSecurityConfig extends SecurityConfigurerAdapter<O, B> {
+
+}

@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.jehu.web.controller;
+
+/**
+ * @author Administrator
+ *
+ */
+public class ControllerExceptionHandler {
+
+}

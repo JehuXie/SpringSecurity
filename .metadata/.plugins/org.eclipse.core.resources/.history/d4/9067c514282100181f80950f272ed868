@@ -1,0 +1,11 @@
+spring.datasource.driver-class-name = com.mysql.jdbc.Driver
+spring.datasource.url= jdbc:mysql://localhost:3306/jehu-demo?useUnicode=yes&characterEncoding=UTF-8&useSSL=false
+spring.datasource.username = root
+spring.datasource.password = root
+
+
+spring.session.store-type= none
+
+#security.basic.enabled= false
+
+#jehu.security.browser.loginPage = /demo-signin.html

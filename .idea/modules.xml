@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jehu-security/jehu-security.iml" filepath="$PROJECT_DIR$/jehu-security/jehu-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jehu-security-app/jehu-security-app.iml" filepath="$PROJECT_DIR$/jehu-security-app/jehu-security-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jehu-security-browser/jehu-security-browser.iml" filepath="$PROJECT_DIR$/jehu-security-browser/jehu-security-browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jehu-security-core/jehu-security-core.iml" filepath="$PROJECT_DIR$/jehu-security-core/jehu-security-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jehu-security-demo/jehu-security-demo.iml" filepath="$PROJECT_DIR$/jehu-security-demo/jehu-security-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace-sts-3.9.2.RELEASE.iml" filepath="$PROJECT_DIR$/.idea/workspace-sts-3.9.2.RELEASE.iml" />
+    </modules>
+  </component>
+</project>

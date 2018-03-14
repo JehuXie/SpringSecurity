@@ -1,0 +1,26 @@
+/**
+ * 
+ */
+package com.jehu.code;
+
+import javax.servlet.http.HttpServletRequest;
+
+import com.jehu.security.core.validate.code.ImageCode;
+import com.jehu.security.core.validate.code.ValidateCodeGenerator;
+
+/**
+ * @author Administrator
+ *
+ */
+public class DemoValidateCodeGenerator implements ValidateCodeGenerator {
+
+	/* (non-Javadoc)
+	 * @see com.jehu.security.core.validate.code.ValidateCodeGenerator#createImageCode(javax.servlet.http.HttpServletRequest)
+	 */
+	@Override
+	public ImageCode createImageCode(HttpServletRequest request) {
+		System.out.println("书写自己的图片验证码代码");
+		return null;
+	}
+
+}

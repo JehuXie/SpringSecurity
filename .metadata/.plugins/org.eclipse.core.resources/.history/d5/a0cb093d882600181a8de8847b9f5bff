@@ -1,0 +1,18 @@
+/**
+* @Title:：ValidateCodeProcessorHolder.java 
+* @Package ：com.jehu.security.core.validate.code 
+* @Description： TODO
+* @author： JehuXie   
+* @date： 2018年3月13日 下午2:31:15 
+ */
+package com.jehu.security.core.validate.code;
+
+/**
+* @ClassName:：ValidateCodeProcessorHolder 
+* @Description： TODO
+* @author ：JehuXie
+* @date ：2018年3月13日 下午2:31:15 
+ */
+public class ValidateCodeProcessorHolder {
+
+}

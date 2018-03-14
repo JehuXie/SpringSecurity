@@ -1,0 +1,17 @@
+/**
+ * 
+ */
+package com.jehu.security.core.properties;
+
+import org.springframework.data.domain.Sort.Direction;
+
+/**
+ * @author Administrator
+ *
+ */
+public enum LoginType {
+
+	JSON;
+	
+	DIRECTION;
+}

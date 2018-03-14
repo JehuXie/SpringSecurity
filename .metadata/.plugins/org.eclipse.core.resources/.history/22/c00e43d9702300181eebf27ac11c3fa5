@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.jehu.security.browser;
+
+/**
+ * @author Administrator
+ *
+ */
+public class BrowserSecurityConfig {
+
+}

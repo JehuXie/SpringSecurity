@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "jehu.security.browser.loginPage",
+    "type": "java.lang.String",
+    "description": "A description for 'jehu.security.browser.loginPage'"
+  },
+  {
+    "name": "jehu.security.browser.loginType",
+    "type": "java.lang.String",
+    "description": "A description for 'jehu.security.browser.loginType'"
+  }
+]}

@@ -1,0 +1,43 @@
+/**
+ * 
+ */
+package com.jehu.security.core.validate.code.sms;
+
+import org.apache.commons.lang.RandomStringUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+import org.springframework.web.context.request.ServletWebRequest;
+
+import com.jehu.security.core.properties.SecurityProperties;
+import com.jehu.security.core.validate.code.ValidateCode;
+import com.jehu.security.core.validate.code.ValidateCodeGenerator;
+
+/**
+ * @author Administrator
+ *
+ */
+@Component(value="smsCodeGenerator")
+public class SmsCodeGenerator implements ValidateCodeGenerator {
+
+	/* (non-Javadoc)
+	 * @see com.jehu.security.core.validate.code.ValidateCodeGenerator#generate(org.springframework.web.context.request.ServletWebRequest)
+	 */
+	@Autowired
+	private SecurityProperties securityProperties;
+	
+	@Override
+	public ValidateCode generate(ServletWebRequest request) {
+		String code = RandomStringUtils.randomNumeric(securityProperties.getCode().getSmsCode().getLength());
+		
+		return new ValidateCode(code, securityProperties.getCode().getSmsCode().getExpiredIn());
+	}
+
+	public SecurityProperties getSecurityProperties() {
+		return securityProperties;
+	}
+
+	public void setSecurityProperties(SecurityProperties securityProperties) {
+		this.securityProperties = securityProperties;
+	}
+
+}

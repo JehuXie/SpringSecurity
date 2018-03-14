@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=jehu-security-core/src\/main\/java&lt;com.jehu.security.core.validate.code{ValidateCodeProcessor.java[ValidateCodeProcessor" modifiers="513" timestamp="1520923879575"/>
+<typeInfo handle="=jehu-security-core/src\/main\/java&lt;com.jehu.security.core.validate.code{ValidateCodeGenerator.java[ValidateCodeGenerator" modifiers="513" timestamp="1520837999461"/>
+<typeInfo handle="=jehu-security-core/src\/main\/java&lt;com.jehu.security.core.validate.code.impl{AbstractValidateCodeProcessor.java[AbstractValidateCodeProcessor" modifiers="1025" timestamp="1520924211683"/>
+<typeInfo handle="=jehu-security-app/C:\/Users\/Administrator\/.m2\/repository\/org\/springframework\/security\/spring-security-core\/4.2.3.RELEASE\/spring-security-core-4.2.3.RELEASE.jar&lt;org.springframework.security.authentication(UsernamePasswordAuthenticationToken.class[UsernamePasswordAuthenticationToken" modifiers="33" timestamp="1515644403268"/>
+<typeInfo handle="=jehu-security-app/C:\/Users\/Administrator\/.m2\/repository\/org\/springframework\/security\/spring-security-web\/4.2.3.RELEASE\/spring-security-web-4.2.3.RELEASE.jar&lt;org.springframework.security.web.authentication(UsernamePasswordAuthenticationFilter.class[UsernamePasswordAuthenticationFilter" modifiers="33" timestamp="1515644403636"/>
+<typeInfo handle="=jehu-security-core/C:\/Users\/Administrator\/.m2\/repository\/org\/springframework\/security\/spring-security-core\/4.2.3.RELEASE\/spring-security-core-4.2.3.RELEASE.jar&lt;org.springframework.security.authentication(AuthenticationProvider.class[AuthenticationProvider" modifiers="1537" timestamp="1515644403268"/>
+<typeInfo handle="=jehu-security-core/C:\/Users\/Administrator\/.m2\/repository\/org\/springframework\/security\/spring-security-config\/4.2.3.RELEASE\/spring-security-config-4.2.3.RELEASE.jar&lt;org.springframework.security.config.annotation(SecurityConfigurerAdapter.class[SecurityConfigurerAdapter" modifiers="1057" timestamp="1515644422979"/>
+<typeInfo handle="=jehu-security-core/src\/main\/java&lt;com.jehu.security.core.validate.code{ValidateCodeSecurityConfig.java[ValidateCodeSecurityConfig" modifiers="1" timestamp="1520927785981"/>
+</typeInfoHistroy>

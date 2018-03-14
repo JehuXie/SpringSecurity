@@ -1,0 +1,18 @@
+/**
+* @Title:：SmsCodeAuthenticationToken.java 
+* @Package ：com.jehu.security.core.authentication.mobile 
+* @Description： TODO
+* @author： JehuXie   
+* @date： 2018年3月13日 上午10:35:00 
+ */
+package com.jehu.security.core.authentication.mobile;
+
+/**
+*  @ClassName:：SmsCodeAuthenticationToken 
+* @Description： TODO
+* @author ：JehuXie
+* @date ：2018年3月13日 上午10:35:00 
+ */
+public class SmsCodeAuthenticationToken {
+
+}

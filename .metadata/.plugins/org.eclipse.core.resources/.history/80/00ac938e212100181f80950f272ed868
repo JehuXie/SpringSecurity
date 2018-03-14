@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package com.jehu.security.core.properties;
+
+/**
+ * @author Administrator
+ *
+ */
+public class SecurityProperties {
+
+	private BrowserProperties browserProperties = new BrowserProperties();
+	
+	public SecurityProperties(BrowserProperties browserProperties) {
+		this.browserProperties = browserProperties;
+	}
+
+	public BrowserProperties getBrowserProperties() {
+		return browserProperties;
+	}
+
+	public void setBrowserProperties(BrowserProperties browserProperties) {
+		this.browserProperties = browserProperties;
+	}
+	
+	
+}

@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package com.jehu.security.core.validate.code.sms;
+
+import com.jehu.security.core.validate.code.impl.AbstractValidateCodeProcessor;
+
+/**
+ * @author Administrator
+ *
+ */
+public class SmsCodeProcessor extends AbstractValidateCodeProcessor<C> {
+
+}

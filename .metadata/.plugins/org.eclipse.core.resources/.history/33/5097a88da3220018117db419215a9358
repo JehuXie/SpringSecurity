@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.jehu.security.core.properties;
+
+/**
+ * @author Administrator
+ *
+ */
+public class ImageCodeProperties {
+
+}

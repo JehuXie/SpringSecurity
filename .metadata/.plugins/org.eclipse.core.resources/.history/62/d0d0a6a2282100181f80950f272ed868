@@ -1,0 +1,28 @@
+/**
+ * 
+ */
+package com.jehu.security.core.properties;
+
+/**
+ * @author Administrator
+ *
+ */
+public class BrowserProperties {
+	
+	private String loginPage = "/demo-signin.html";
+	
+	public BrowserProperties() {}
+	
+	public BrowserProperties(String loginPage) {
+		super();
+		this.loginPage = loginPage;
+	}
+
+	public String getLoginPage() {
+		return loginPage;
+	}
+
+	public void setLoginPage(String loginPage) {
+		this.loginPage = loginPage;
+	}
+}

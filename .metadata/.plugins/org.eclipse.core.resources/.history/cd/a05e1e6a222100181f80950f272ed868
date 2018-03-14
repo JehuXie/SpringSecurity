@@ -1,0 +1,24 @@
+/**
+ * 
+ */
+package com.jehu.security.core;
+
+/**
+ * @author Administrator
+ *
+ */
+public class BrowserSercurityConfig {
+	
+	private String loginPage;
+
+	public String getLoginPage() {
+		return loginPage;
+	}
+
+	public void setLoginPage(String loginPage) {
+		this.loginPage = loginPage;
+	}
+	
+	
+
+}

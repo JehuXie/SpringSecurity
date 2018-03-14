@@ -1,0 +1,43 @@
+/**
+ * 
+ */
+package com.jehu.security.core.properties;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Component;
+
+/**
+ * @author Administrator
+ *
+ */
+@Component
+public class BrowserProperties {
+	@Value("jehu.security.browser.loginPage")
+	private String loginPage = "/jehu-signin.html";
+	
+	private LoginType loginType = LoginType.JSON;
+	
+	public BrowserProperties() {}
+	
+	public BrowserProperties(String loginPage) {
+		super();
+		this.loginPage = loginPage;
+	}
+
+	public String getLoginPage() {
+		return loginPage;
+	}
+
+	public void setLoginPage(String loginPage) {
+		this.loginPage = loginPage;
+	}
+
+	public LoginType getLoginType() {
+		return loginType;
+	}
+
+	public void setLoginType(LoginType loginType) {
+		this.loginType = loginType;
+	}
+	
+}
