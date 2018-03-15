@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.jehu.security.core.properties.SecurityProperties",
+      "name": "jehu.security",
+      "type": "com.jehu.security.core.properties.SecurityProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.jehu.security.core.properties.SecurityProperties",
+      "name": "jehu.security.browser",
+      "type": "com.jehu.security.core.properties.BrowserProperties"
+    },
+    {
+      "sourceType": "com.jehu.security.core.properties.SecurityProperties",
+      "name": "jehu.security.code",
+      "type": "com.jehu.security.core.properties.ValidateCodeProperties"
+    }
+  ]
+}

@@ -1,7 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acdd5538-346a-4b29-9d44-7be5bb87f79b" name="Default" comment="" />
+    <list default="true" id="acdd5538-346a-4b29-9d44-7be5bb87f79b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-browser/target/classes/com/jehu/security/browser/BrowserSecurityConfig.class" afterPath="$PROJECT_DIR$/jehu-security-browser/target/classes/com/jehu/security/browser/BrowserSecurityConfig.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-browser/target/classes/com/jehu/security/browser/BrowserSecurityController.class" afterPath="$PROJECT_DIR$/jehu-security-browser/target/classes/com/jehu/security/browser/BrowserSecurityController.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-browser/target/classes/com/jehu/security/browser/MyUserDetailService.class" afterPath="$PROJECT_DIR$/jehu-security-browser/target/classes/com/jehu/security/browser/MyUserDetailService.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-browser/target/classes/com/jehu/security/browser/authentication/JehuAuthenticationFailureHandler.class" afterPath="$PROJECT_DIR$/jehu-security-browser/target/classes/com/jehu/security/browser/authentication/JehuAuthenticationFailureHandler.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-browser/target/classes/com/jehu/security/browser/authentication/JehuAuthenticationSuccessHandler.class" afterPath="$PROJECT_DIR$/jehu-security-browser/target/classes/com/jehu/security/browser/authentication/JehuAuthenticationSuccessHandler.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-browser/target/classes/com/jehu/security/browser/support/SimpleResponse.class" afterPath="$PROJECT_DIR$/jehu-security-browser/target/classes/com/jehu/security/browser/support/SimpleResponse.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/SecurityCoreConfig.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/SecurityCoreConfig.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/authentication/AbstractChannelSecurityConfig.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/authentication/AbstractChannelSecurityConfig.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationFilter.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationFilter.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationProvider.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationProvider.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationSecurityConfig.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationSecurityConfig.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationToken.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationToken.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/properties/BrowserProperties.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/properties/BrowserProperties.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/properties/ImageCodeProperties.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/properties/ImageCodeProperties.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/properties/LoginType.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/properties/LoginType.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/properties/SecurityConstants.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/properties/SecurityConstants.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/properties/SecurityProperties.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/properties/SecurityProperties.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/properties/SmsCodeProperties.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/properties/SmsCodeProperties.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/properties/ValidateCodeProperties.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/properties/ValidateCodeProperties.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCode.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCode.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeBeanConfig.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeBeanConfig.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeController.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeController.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeException.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeException.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeFilter.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeFilter.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeGenerator.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeGenerator.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeProcessor.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeProcessor.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeProcessorHolder.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeProcessorHolder.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeRepository.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeRepository.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeSecurityConfig.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeSecurityConfig.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeType$1.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeType$1.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeType$2.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeType$2.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeType.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/ValidateCodeType.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/image/ImageCode.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/image/ImageCode.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/image/ImageCodeGenerator.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/image/ImageCodeGenerator.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/image/ImageCodeProcessor.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/image/ImageCodeProcessor.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/impl/AbstractValidateCodeProcessor.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/impl/AbstractValidateCodeProcessor.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/sms/DefaultSmsCodeSender.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/sms/DefaultSmsCodeSender.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/sms/SmsCodeGenerator.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/sms/SmsCodeGenerator.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/sms/SmsCodeProcessor.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/sms/SmsCodeProcessor.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/sms/SmsCodeSender.class" afterPath="$PROJECT_DIR$/jehu-security-core/target/classes/com/jehu/security/core/validate/code/sms/SmsCodeSender.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/DemoApplication.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/DemoApplication.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/code/DemoValidateCodeGenerator.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/code/DemoValidateCodeGenerator.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/dto/FileInfo.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/dto/FileInfo.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/dto/User$UserDetailView.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/dto/User$UserDetailView.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/dto/User$UserSimpleView.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/dto/User$UserSimpleView.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/dto/User.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/dto/User.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/exception/UserNotExistException.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/exception/UserNotExistException.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/service/HelloService.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/service/HelloService.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/service/HelloServiceImpl.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/service/HelloServiceImpl.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/validator/MyConstraint.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/validator/MyConstraint.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/validator/MyConstraintValidator.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/validator/MyConstraintValidator.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/aspect/TimeAspect.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/aspect/TimeAspect.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/async/AsyncController$1.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/async/AsyncController$1.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/async/AsyncController.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/async/AsyncController.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/async/DeferredResultHolder.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/async/DeferredResultHolder.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/async/MockQueue.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/async/MockQueue.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/async/QueueListener.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/async/QueueListener.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/config/WebConfig.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/config/WebConfig.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/controller/ControllerExceptionHandler.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/controller/ControllerExceptionHandler.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/controller/FileController.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/controller/FileController.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/controller/UserController.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/controller/UserController.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/filter/TimeFilter.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/filter/TimeFilter.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/interceptor/TimeInterceptor.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/classes/com/jehu/web/interceptor/TimeInterceptor.class" />
+      <change beforePath="$PROJECT_DIR$/jehu-security-demo/target/test-classes/com/jehu/web/controller/UserControllerTest.class" afterPath="$PROJECT_DIR$/jehu-security-demo/target/test-classes/com/jehu/web/controller/UserControllerTest.class" />
+    </list>
     <ignored path="$PROJECT_DIR$/jehu-security-core/target/" />
     <ignored path="$PROJECT_DIR$/jehu-security-browser/target/" />
     <ignored path="$PROJECT_DIR$/jehu-security-demo/target/" />
@@ -16,37 +84,97 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BrowserSecurityConfig.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BrowserSecurityConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jehu-security-browser/src/main/java/com/jehu/security/browser/BrowserSecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="37" column="58" lean-forward="false" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
+            <state relative-caret-position="1210">
+              <caret line="73" column="30" lean-forward="false" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JdbcTokenRepositoryImpl.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.4.RELEASE/spring-security-web-4.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/rememberme/JdbcTokenRepositoryImpl.java">
+      <file leaf-file-name="SmsCodeAuthenticationToken.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationToken.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="33" column="51" lean-forward="false" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+            <state relative-caret-position="880">
+              <caret line="50" column="6" lean-forward="false" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QQUserInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/social/qq/api/QQUserInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2684">
+              <caret line="198" column="0" lean-forward="false" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QQImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/social/qq/api/QQImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="44" column="61" lean-forward="false" selection-start-line="44" selection-start-column="61" selection-end-line="44" selection-end-column="61" />
               <folding>
-                <marker date="1520567701236" expanded="true" signature="1521:1681" ph="create table... persistent_logins" />
-                <marker date="1520567701236" expanded="true" signature="1807:1885" ph="select usern... persistent_logins" />
-                <marker date="1520567701236" expanded="true" signature="1996:2078" ph="insert into persistent_logins... " />
-                <marker date="1520567701236" expanded="true" signature="2186:2256" ph="update persistent_logins... " />
-                <marker date="1520567701236" expanded="true" signature="2375:2423" ph="delete from persistent_logins... " />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jehu-security/pom.xml">
+      <file leaf-file-name="QQ.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/social/qq/api/QQ.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="968">
-              <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+            <state relative-caret-position="154">
+              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QQServicePrivider.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/social/qq/api/QQServicePrivider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#919#920#0" expanded="true" />
+                <element signature="e#971#972#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmsCodeAuthenticationProvider.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="41" column="4" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmsCodeAuthenticationFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecurityConstants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/properties/SecurityConstants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -62,75 +190,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractJdbcCall.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.7.RELEASE/spring-jdbc-4.3.7.RELEASE.jar!/org/springframework/jdbc/core/simple/AbstractJdbcCall.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-              <folding>
-                <marker date="1520582151451" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1520582151451" expanded="false" signature="160:1018" ph="..." />
-                <marker date="1520582151451" expanded="false" signature="1625:1636" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="1685:1691" ph=" }" />
-                <marker date="1520582151451" expanded="true" signature="1751:1871" ph="{...}" />
-                <marker date="1520582151451" expanded="false" signature="1914:1925" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="1950:1956" ph=" }" />
-                <marker date="1520582151451" expanded="false" signature="2012:2023" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="2080:2086" ph=" }" />
-                <marker date="1520582151451" expanded="false" signature="2124:2135" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="2186:2192" ph=" }" />
-                <marker date="1520582151451" expanded="true" signature="2260:2346" ph="{...}" />
-                <marker date="1520582151451" expanded="false" signature="2392:2403" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="2464:2470" ph=" }" />
-                <marker date="1520582151451" expanded="false" signature="2522:2533" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="2586:2592" ph=" }" />
-                <marker date="1520582151451" expanded="false" signature="2628:2639" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="2688:2694" ph=" }" />
-                <marker date="1520582151451" expanded="false" signature="2744:2755" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="2806:2812" ph=" }" />
-                <marker date="1520582151451" expanded="false" signature="2847:2858" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="2906:2912" ph=" }" />
-                <marker date="1520582151451" expanded="false" signature="2959:2970" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="3017:3023" ph=" }" />
-                <marker date="1520582151451" expanded="false" signature="3056:3067" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="3112:3118" ph=" }" />
-                <marker date="1520582151451" expanded="true" signature="3188:3273" ph="{...}" />
-                <marker date="1520582151451" expanded="false" signature="3317:3328" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="3384:3390" ph=" }" />
-                <marker date="1520582151451" expanded="false" signature="3445:3456" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="3511:3517" ph=" }" />
-                <marker date="1520582151451" expanded="false" signature="3554:3565" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="3614:3620" ph=" }" />
-                <marker date="1520582151451" expanded="true" signature="3706:3807" ph="{...}" />
-                <marker date="1520582151451" expanded="false" signature="3842:3853" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="3876:3882" ph=" }" />
-                <marker date="1520582151451" expanded="false" signature="3959:3970" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="4007:4013" ph=" }" />
-                <marker date="1520582151451" expanded="true" signature="4076:4646" ph="{...}" />
-                <marker date="1520582151451" expanded="true" signature="4731:4963" ph="{...}" />
-                <marker date="1520582151451" expanded="true" signature="5052:5778" ph="{...}" />
-                <marker date="1520582151451" expanded="true" signature="5817:6912" ph="{...}" />
-                <marker date="1520582151451" expanded="true" signature="6953:6960" ph="{}" />
-                <marker date="1520582151451" expanded="false" signature="6993:7004" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="7025:7031" ph=" }" />
-                <marker date="1520582151451" expanded="true" signature="7068:7245" ph="{...}" />
-                <marker date="1520582151451" expanded="true" signature="7327:7514" ph="{...}" />
-                <marker date="1520582151451" expanded="true" signature="7576:7747" ph="{...}" />
-                <marker date="1520582151451" expanded="true" signature="7814:7985" ph="{...}" />
-                <marker date="1520582151451" expanded="true" signature="8060:8817" ph="{...}" />
-                <marker date="1520582151451" expanded="false" signature="8867:8878" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="8938:8944" ph=" }" />
-                <marker date="1520582151451" expanded="false" signature="8998:9009" ph=" { " />
-                <marker date="1520582151451" expanded="false" signature="9061:9067" ph=" }" />
-                <marker date="1520582151451" expanded="true" signature="9180:9286" ph="{...}" />
-                <marker date="1520582151451" expanded="true" signature="9371:9466" ph="{...}" />
-                <marker date="1520582151451" expanded="true" signature="9559:9654" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -142,6 +213,10 @@
       <list>
         <option value="$PROJECT_DIR$/jehu-security-core/pom.xml" />
         <option value="$PROJECT_DIR$/jehu-security-browser/src/main/java/com/jehu/security/browser/BrowserSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/social/qq/api/QQ.java" />
+        <option value="$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/social/qq/api/QQImpl.java" />
+        <option value="$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/social/qq/api/QQUserInfo.java" />
+        <option value="$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/social/qq/api/QQServicePrivider.java" />
       </list>
     </option>
   </component>
@@ -158,11 +233,29 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1460" />
-    <option name="height" value="920" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="815" />
+    <option name="width" value="785" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -179,80 +272,72 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="workspace-sts-3.9.2.RELEASE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace-sts-3.9.2.RELEASE" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringSecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringSecurity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="workspace-sts-3.9.2.RELEASE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace-sts-3.9.2.RELEASE" type="462c0819:PsiDirectoryNode" />
-              <item name="jehu-security-app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace-sts-3.9.2.RELEASE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace-sts-3.9.2.RELEASE" type="462c0819:PsiDirectoryNode" />
-              <item name="jehu-security-browser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace-sts-3.9.2.RELEASE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace-sts-3.9.2.RELEASE" type="462c0819:PsiDirectoryNode" />
-              <item name="jehu-security-browser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace-sts-3.9.2.RELEASE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace-sts-3.9.2.RELEASE" type="462c0819:PsiDirectoryNode" />
-              <item name="jehu-security-browser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace-sts-3.9.2.RELEASE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace-sts-3.9.2.RELEASE" type="462c0819:PsiDirectoryNode" />
-              <item name="jehu-security-browser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace-sts-3.9.2.RELEASE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace-sts-3.9.2.RELEASE" type="462c0819:PsiDirectoryNode" />
-              <item name="jehu-security-browser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="browser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace-sts-3.9.2.RELEASE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace-sts-3.9.2.RELEASE" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringSecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringSecurity" type="462c0819:PsiDirectoryNode" />
               <item name="jehu-security-core" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="workspace-sts-3.9.2.RELEASE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="SpringSecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringSecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="jehu-security-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringSecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringSecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="jehu-security-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringSecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringSecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="jehu-security-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringSecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringSecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="jehu-security-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/curl/IteratorPattern" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -370,14 +455,17 @@
       <updated>1520581376926</updated>
       <workItem from="1520581378796" duration="1693000" />
       <workItem from="1520902588138" duration="92000" />
+      <workItem from="1521007622367" duration="7777000" />
+      <workItem from="1521096090732" duration="1327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1785000" />
+    <option name="totallyTimeSpent" value="10889000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -387,13 +475,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22365038" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2673522" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -402,11 +490,12 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21639785" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -424,6 +513,92 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/jehu-security-browser/src/main/java/com/jehu/security/browser/BrowserSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="73" column="30" lean-forward="false" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="50" column="6" lean-forward="false" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/social/qq/api/QQUserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2684">
+          <caret line="198" column="0" lean-forward="false" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/social/qq/api/QQImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="61" lean-forward="false" selection-start-line="44" selection-start-column="61" selection-end-line="44" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/social/qq/api/QQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="41" column="4" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/properties/SecurityConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/social/qq/api/QQServicePrivider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#971#972#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-browser/src/main/java/com/jehu/security/browser/BrowserSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -434,13 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="33" column="51" lean-forward="false" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
-          <folding>
-            <marker date="1520567701236" expanded="true" signature="1521:1681" ph="create table... persistent_logins" />
-            <marker date="1520567701236" expanded="true" signature="1807:1885" ph="select usern... persistent_logins" />
-            <marker date="1520567701236" expanded="true" signature="1996:2078" ph="insert into persistent_logins... " />
-            <marker date="1520567701236" expanded="true" signature="2186:2256" ph="update persistent_logins... " />
-            <marker date="1520567701236" expanded="true" signature="2375:2423" ph="delete from persistent_logins... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -448,7 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="968">
           <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -464,65 +631,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-          <folding>
-            <marker date="1520582151451" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1520582151451" expanded="false" signature="160:1018" ph="..." />
-            <marker date="1520582151451" expanded="false" signature="1625:1636" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="1685:1691" ph=" }" />
-            <marker date="1520582151451" expanded="true" signature="1751:1871" ph="{...}" />
-            <marker date="1520582151451" expanded="false" signature="1914:1925" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="1950:1956" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="2012:2023" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="2080:2086" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="2124:2135" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="2186:2192" ph=" }" />
-            <marker date="1520582151451" expanded="true" signature="2260:2346" ph="{...}" />
-            <marker date="1520582151451" expanded="false" signature="2392:2403" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="2464:2470" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="2522:2533" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="2586:2592" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="2628:2639" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="2688:2694" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="2744:2755" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="2806:2812" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="2847:2858" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="2906:2912" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="2959:2970" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="3017:3023" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="3056:3067" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="3112:3118" ph=" }" />
-            <marker date="1520582151451" expanded="true" signature="3188:3273" ph="{...}" />
-            <marker date="1520582151451" expanded="false" signature="3317:3328" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="3384:3390" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="3445:3456" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="3511:3517" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="3554:3565" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="3614:3620" ph=" }" />
-            <marker date="1520582151451" expanded="true" signature="3706:3807" ph="{...}" />
-            <marker date="1520582151451" expanded="false" signature="3842:3853" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="3876:3882" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="3959:3970" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="4007:4013" ph=" }" />
-            <marker date="1520582151451" expanded="true" signature="4076:4646" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="4731:4963" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="5052:5778" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="5817:6912" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="6953:6960" ph="{}" />
-            <marker date="1520582151451" expanded="false" signature="6993:7004" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="7025:7031" ph=" }" />
-            <marker date="1520582151451" expanded="true" signature="7068:7245" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="7327:7514" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="7576:7747" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="7814:7985" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="8060:8817" ph="{...}" />
-            <marker date="1520582151451" expanded="false" signature="8867:8878" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="8938:8944" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="8998:9009" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="9061:9067" ph=" }" />
-            <marker date="1520582151451" expanded="true" signature="9180:9286" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="9371:9466" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="9559:9654" ph="{...}" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-browser/src/main/java/com/jehu/security/browser/BrowserSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.4.RELEASE/spring-security-web-4.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/rememberme/JdbcTokenRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="33" column="51" lean-forward="false" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.7.RELEASE/spring-jdbc-4.3.7.RELEASE.jar!/org/springframework/jdbc/core/simple/AbstractJdbcCall.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -540,26 +685,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jehu-security-core/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.14.RELEASE/spring-jdbc-4.3.14.RELEASE.jar!/org/springframework/jdbc/core/support/AbstractSqlTypeValue.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jehu-security/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -577,72 +706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.7.RELEASE/spring-jdbc-4.3.7.RELEASE.jar!/org/springframework/jdbc/core/simple/AbstractJdbcCall.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-          <folding>
-            <marker date="1520582151451" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1520582151451" expanded="false" signature="160:1018" ph="..." />
-            <marker date="1520582151451" expanded="false" signature="1625:1636" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="1685:1691" ph=" }" />
-            <marker date="1520582151451" expanded="true" signature="1751:1871" ph="{...}" />
-            <marker date="1520582151451" expanded="false" signature="1914:1925" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="1950:1956" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="2012:2023" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="2080:2086" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="2124:2135" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="2186:2192" ph=" }" />
-            <marker date="1520582151451" expanded="true" signature="2260:2346" ph="{...}" />
-            <marker date="1520582151451" expanded="false" signature="2392:2403" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="2464:2470" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="2522:2533" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="2586:2592" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="2628:2639" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="2688:2694" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="2744:2755" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="2806:2812" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="2847:2858" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="2906:2912" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="2959:2970" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="3017:3023" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="3056:3067" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="3112:3118" ph=" }" />
-            <marker date="1520582151451" expanded="true" signature="3188:3273" ph="{...}" />
-            <marker date="1520582151451" expanded="false" signature="3317:3328" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="3384:3390" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="3445:3456" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="3511:3517" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="3554:3565" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="3614:3620" ph=" }" />
-            <marker date="1520582151451" expanded="true" signature="3706:3807" ph="{...}" />
-            <marker date="1520582151451" expanded="false" signature="3842:3853" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="3876:3882" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="3959:3970" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="4007:4013" ph=" }" />
-            <marker date="1520582151451" expanded="true" signature="4076:4646" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="4731:4963" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="5052:5778" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="5817:6912" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="6953:6960" ph="{}" />
-            <marker date="1520582151451" expanded="false" signature="6993:7004" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="7025:7031" ph=" }" />
-            <marker date="1520582151451" expanded="true" signature="7068:7245" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="7327:7514" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="7576:7747" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="7814:7985" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="8060:8817" ph="{...}" />
-            <marker date="1520582151451" expanded="false" signature="8867:8878" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="8938:8944" ph=" }" />
-            <marker date="1520582151451" expanded="false" signature="8998:9009" ph=" { " />
-            <marker date="1520582151451" expanded="false" signature="9061:9067" ph=" }" />
-            <marker date="1520582151451" expanded="true" signature="9180:9286" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="9371:9466" ph="{...}" />
-            <marker date="1520582151451" expanded="true" signature="9559:9654" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.14.RELEASE/spring-jdbc-4.3.14.RELEASE.jar!/org/springframework/jdbc/core/support/JdbcBeanDefinitionReader.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -650,31 +713,147 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.4.RELEASE/spring-security-web-4.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/rememberme/JdbcTokenRepositoryImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="33" column="51" lean-forward="false" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
-          <folding>
-            <marker date="1520567701236" expanded="true" signature="1521:1681" ph="create table... persistent_logins" />
-            <marker date="1520567701236" expanded="true" signature="1807:1885" ph="select usern... persistent_logins" />
-            <marker date="1520567701236" expanded="true" signature="1996:2078" ph="insert into persistent_logins... " />
-            <marker date="1520567701236" expanded="true" signature="2186:2256" ph="update persistent_logins... " />
-            <marker date="1520567701236" expanded="true" signature="2375:2423" ph="delete from persistent_logins... " />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.7.RELEASE/spring-jdbc-4.3.7.RELEASE.jar!/org/springframework/jdbc/core/simple/AbstractJdbcCall.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/social/spring-social-core/1.1.4.RELEASE/spring-social-core-1.1.4.RELEASE.jar!/org/springframework/social/oauth2/AbstractOAuth2ApiBinding.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="41" column="4" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/properties/SecurityConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jehu-security-browser/src/main/java/com/jehu/security/browser/BrowserSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="37" column="58" lean-forward="false" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
+        <state relative-caret-position="1210">
+          <caret line="73" column="30" lean-forward="false" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/authentication/mobile/SmsCodeAuthenticationToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="50" column="6" lean-forward="false" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/social/qq/api/QQImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="61" lean-forward="false" selection-start-line="44" selection-start-column="61" selection-end-line="44" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/social/qq/api/QQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/social/qq/api/QQUserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2684">
+          <caret line="198" column="0" lean-forward="false" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jehu-security-core/src/main/java/com/jehu/security/core/social/qq/api/QQServicePrivider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#971#972#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -698,6 +877,18 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>workspace-sts-3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.7</last-edited>
@@ -712,6 +903,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
